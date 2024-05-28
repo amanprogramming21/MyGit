@@ -1,6 +1,6 @@
 <!----------------------------------- Banner Section ------------------------------------>
 
-[![MasterHead](https://user-images.githubusercontent.com/97781422/185549684-8443257c-c202-440f-b506-6993049e941f.jpg)]("https://amanprogramming21.github.io/")
+[![MasterHead](https://miro.medium.com/v2/resize:fit:720/format:webp/1*g0htFSEnplHtdXYcZG3qZQ.gif)]("https://amanprogramming21.github.io/")
 
 <!----------------------------------- Heading Section ------------------------------------>
 <h1 align="center">
