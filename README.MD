@@ -1,6 +1,6 @@
 <!----------------------------------- Banner Section ------------------------------------>
 
-[![MasterHead](https://user-images.githubusercontent.com/97781422/185549684-8443257c-c202-440f-b506-6993049e941f.jpg)]("https://HIMANSHUMISHRA389.github.io/")
+[![MasterHead](https://user-images.githubusercontent.com/97781422/185549684-8443257c-c202-440f-b506-6993049e941f.jpg)]("https://amanprogramming21.github.io/")
 
 <!----------------------------------- Heading Section ------------------------------------>
 <h1 align="center">
@@ -10,7 +10,9 @@
 
 <!----------------------------------- About Section ------------------------------------>
 
-<h3 align="center">Analytical and detail-oriented aspiring Full Stack Developer. Capable of writing production-ready code using JavaScript, React.Js and HTML, CSS on the frontend, NodeJS, and Express on the backend to build single-page applications. Passionate about coding and intensely interested in working in a product-based company.</h3>
+<h3 align="center">🖥️ As a seasoned Software Developer specializing in Java and Windchill, I am passionate about creating robust and scalable solutions that drive efficiency and innovation. My proficiency in these technologies extends to crafting software that not only meets business needs but also anticipates and adapts to the dynamic demands of the industry.
+
+📈 Beyond the realm of coding, I possess a deep understanding of the Indian stock market. I Ensured adherence to stock market regulations and policies of Indian stock market and Invest in options buying and options selling. Created plans to implement strategies. Developed high yield investment strategies.</h3>
 
 # 💫 About Me:
 
@@ -47,9 +49,9 @@
  <br/>
   <div align="center"><h3 align="center">Backend</h3> 
   <img src="https://img.shields.io/badge/java-%23E34F26.svg?style=for-the-badge&logo=java&logoColor=white" align="center" alt="java">
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" align="center" alt="springboot" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" align="center" alt="microservices"/>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" align="center" alt="MySql"/>
+<img src="https://img.shields.io/badge/SpringBoot-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" align="center" alt="springboot" />
+<img src="https://img.shields.io/badge/Micro Services-000000?style=for-the-badge&logo=express&logoColor=white" align="center" alt="microservices"/>
+<img src="https://img.shields.io/badge/MySql-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" align="center" alt="MySql"/>
  </div>
   
   <div align="center"><h3 align="center">Tools</h3> 
@@ -58,11 +60,11 @@
    <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=whit" align="center" alt="git"/>
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  align="center" alt="github"/>
 <img src ="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" align="center" alt="postman">
-<img src = "https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" align="center" alt="npm">
-   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"  align="center" alt="IDE"/>
+<img src = "https://img.shields.io/badge/Intellij idea-%23000000.svg?style=for-the-badge&logo=Intellij&logoColor=white" align="center" alt="Intellij">
+   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"  align="center" alt="VS"/>
    <br/>
 <br/>
-   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" align="center" alt="Tomcat"/>
+   <img src="https://img.shields.io/badge/Tomcat-4A154B?style=for-the-badge&logo=tomcat&logoColor=white" align="center" alt="Tomcat"/>
  </div>
 </div>
 
