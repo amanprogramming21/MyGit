@@ -19,7 +19,7 @@
 <img  align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" width="45%" />
 
 - 🔭 I’m currently working in a organization where i am backend developer 
-- 🌱 I want to enhance more knowledge in my skils
+- 🌱 I want to enhance more knowledge in my skills
 <!-- need to add resume drive link -->
 - 📄 Check out my [Resume](https://drive.google.com/file/d/13WfLcJAfJyaVfzC-a3xcAP_wL0JyRUDd/view?usp=drive_link) 
 - 💻 All of my projects are available at My [Github Repositories](https://github.com/amanprogramming21?tab=repositories)
